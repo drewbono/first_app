@@ -4,5 +4,9 @@ FirstApp::Application.config.session_store :cookie_store, :key => '_first_app_se
 
 # Use the database for sessions instead of the cookie-based default,
 # which shouldn't be used to store highly confidential information
+<<<<<<< HEAD
 # (create the session table with "rails generate session_migration")
+=======
+# (create the session table with "rake db:sessions:create")
+>>>>>>> 24a872babd35b6411ca9f3cf4c84f8230b8f4564
 # FirstApp::Application.config.session_store :active_record_store
