@@ -1,5 +1,9 @@
 FirstApp::Application.configure do
+<<<<<<< HEAD
   # Settings specified here will take precedence over those in config/application.rb
+=======
+  # Settings specified here will take precedence over those in config/environment.rb
+>>>>>>> 24a872babd35b6411ca9f3cf4c84f8230b8f4564
 
   # In the development environment your application's code is reloaded on
   # every request.  This slows down response time but is perfect for development
